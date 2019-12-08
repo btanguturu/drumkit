@@ -21,7 +21,7 @@ const data = [
 
   { id: '', letter: 'yiyiyiyiyi', src: '\assets\audio\yiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyi.mp3' },
 
-  { id: '', letter: 'You are rightt', src: '\assets\audio\You are right.mp3' }
+  { id: '', letter: 'You are right', src: '\assets\audio\You are right.mp3' }
 
 ]
 
