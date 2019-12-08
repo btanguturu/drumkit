@@ -7,7 +7,7 @@ const data = [
   
   { id: '', letter: 'Bombs away!', src: 'https://raw.githubusercontent.com/btanguturu/drumkit/master/assets/audio/bombs%20away.mp3' },
   
-  { id: '', letter: 'Disintergration', src: 'https://raw.githubusercontent.com/btanguturu/drumkit/master/assets/audio/disintegration.mp3' },
+  { id: '', letter: 'Prepare', src: 'https://raw.githubusercontent.com/btanguturu/drumkit/master/assets/audio/disintegration.mp3' },
   
   { id: '', letter: 'Ending Theme', src: 'https://raw.githubusercontent.com/btanguturu/drumkit/master/assets/audio/Ending%20Theme.mp3' },
 
@@ -21,8 +21,13 @@ const data = [
 
   { id: '', letter: 'yiyiyiyiyi', src: 'https://raw.githubusercontent.com/btanguturu/drumkit/master/assets/audio/yiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyi.mp3' },
 
-  { id: '', letter: 'You are right', src: 'https://raw.githubusercontent.com/btanguturu/drumkit/master/assets/audio/You%20are%20right.mp3' }
+  { id: '', letter: 'You are right', src: 'https://raw.githubusercontent.com/btanguturu/drumkit/master/assets/audio/You%20are%20right.mp3' },
 
+  { id: '', letter: 'You are right', src: 'https://raw.githubusercontent.com/btanguturu/drumkit/master/assets/audio/You%20are%20right.mp3' },
+
+  { id: '', letter: 'You are right', src: 'https://raw.githubusercontent.com/btanguturu/drumkit/master/assets/audio/You%20are%20right.mp3' },
+  
+  { id: '', letter: 'You are right', src: 'https://raw.githubusercontent.com/btanguturu/drumkit/master/assets/audio/You%20are%20right.mp3' }
 ]
 
 class DrumPad extends React.Component {
