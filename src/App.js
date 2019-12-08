@@ -3,25 +3,25 @@ import './App.css';
 
 const data = [
 
-  { id: '', letter: 'Shut Up!', src: '\assets\audio\Ahhhhh, shutup.mp3' },
+  { id: '', letter: 'Shut Up!', src: '/assets/audio/Ahhhhh, shutup.mp3' },
   
-  { id: '', letter: 'Bombs away!', src: '\assets\audio\bombs away.mp3' },
+  { id: '', letter: 'Bombs away!', src: '/assets/.audio/bombs away.mp3' },
   
-  { id: '', letter: 'Disintergration', src: '\assets\audio\disintegration.mp3' },
+  { id: '', letter: 'Disintergration', src: '/assets/audio/disintegration.mp3' },
   
-  { id: '', letter: 'Ending Theme', src: '\assets\audio\Ending Theme.mp3' },
+  { id: '', letter: 'Ending Theme', src: '/assets/audio/Ending Theme.mp3' },
 
-  { id: '', letter: 'Meep Meep', src: '\assets\audio\Meep Meep.mp3' },
+  { id: '', letter: 'Meep Meep', src: '/assets/audio/Meep Meep.mp3' },
 
-  { id: '', letter: 'Oh ow!', src: '\assets\audio\Oh Ow.mp3' },
+  { id: '', letter: 'Oh ow!', src: '/assets/audio/Oh Ow.mp3' },
 
-  { id: '', letter: "That's all Folks", src: "\assets\audio\That's All Folks.mp3" },
+  { id: '', letter: "That's all Folks", src: "/assets/audio/'s All Folks.mp3" },
 
-  { id: '', letter: "What's up doc", src: "\assets\audio\What's up Doc.mp3" },
+  { id: '', letter: "What's up doc", src: "/assets/audio/What's up Doc.mp3" },
 
-  { id: '', letter: 'yiyiyiyiyi', src: '\assets\audio\yiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyi.mp3' },
+  { id: '', letter: 'yiyiyiyiyi', src: '/assets/audio/yiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyi.mp3' },
 
-  { id: '', letter: 'You are right', src: '\assets\audio\You are right.mp3' }
+  { id: '', letter: 'You are right', src: '/assets/audio/You are right.mp3' }
 
 ]
 
