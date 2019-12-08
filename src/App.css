@@ -1,0 +1,39 @@
+body{
+  background: url('/assets/img/bg.png') center;
+  background-size: cover;
+}
+
+#drum-pads {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 2em;
+  margin: 15px;
+ }
+ 
+ #drum-pads div {
+   width:25%;
+ }
+
+h1 {
+  text-align: center;
+  font-size: 3em;
+  color: #fff;
+  text-shadow: 5px 5px 5px #01144a;
+}
+
+h2{
+  display: flex;
+  justify-content: center;
+  font-size: 2em;
+  font-family: PT Sans;
+  background-color: #01144a;
+  opacity: 0.855;
+  border-radius: 50%; 
+  height: 100%;
+  width: 50%;
+  padding: 20%; 
+  color: #fff;
+  text-align: center;
+}
+
