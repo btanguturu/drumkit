@@ -3,25 +3,25 @@ import './App.css';
 
 const data = [
 
-  { id: '', letter: 'Shut Up!', src: '\assets\audio\Ahhhhh, shutup.mp3' },
+  { id: '', letter: 'Shut Up!', src: 'https://raw.githubusercontent.com/btanguturu/drumkit/master/assets/audio/Ahhhhh%2C%20shutup.mp3' },
   
-  { id: '', letter: 'Bombs away!', src: '\assets\audio\bombs away.mp3' },
+  { id: '', letter: 'Bombs away!', src: 'https://raw.githubusercontent.com/btanguturu/drumkit/master/assets/audio/bombs%20away.mp3' },
   
-  { id: '', letter: 'Disintergration', src: '\assets\audio\disintegration.mp3' },
+  { id: '', letter: 'Disintergration', src: 'https://raw.githubusercontent.com/btanguturu/drumkit/master/assets/audio/disintegration.mp3' },
   
-  { id: '', letter: 'Ending Theme', src: '\assets\audio\Ending Theme.mp3' },
+  { id: '', letter: 'Ending Theme', src: 'https://raw.githubusercontent.com/btanguturu/drumkit/master/assets/audio/Ending%20Theme.mp3' },
 
-  { id: '', letter: 'Meep Meep', src: '\assets\audio\Meep Meep.mp3' },
+  { id: '', letter: 'Meep Meep', src: 'https://raw.githubusercontent.com/btanguturu/drumkit/master/assets/audio/Meep%20Meep.mp3' },
 
-  { id: '', letter: 'Oh ow!', src: '\assets\audio\Oh Ow.mp3' },
+  { id: '', letter: 'Oh ow!', src: 'https://raw.githubusercontent.com/btanguturu/drumkit/master/assets/audio/Oh%20Ow.mp3' },
 
-  { id: '', letter: "That's all Folks", src: "\assets\audio\That's All Folks.mp3" },
+  { id: '', letter: "That's all Folks", src: "https://github.com/btanguturu/drumkit/blob/master/assets/audio/That's%20All%20Folks.mp3" },
 
-  { id: '', letter: "What's up doc", src: "\assets\audio\What's up Doc.mp3" },
+  { id: '', letter: "What's up doc", src: "https://raw.githubusercontent.com/btanguturu/drumkit/master/assets/audio/What's%20up%20Doc.mp3" },
 
-  { id: '', letter: 'yiyiyiyiyi', src: '\assets\audio\yiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyi.mp3' },
+  { id: '', letter: 'yiyiyiyiyi', src: 'https://raw.githubusercontent.com/btanguturu/drumkit/master/assets/audio/yiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyi.mp3' },
 
-  { id: '', letter: 'You are rightt', src: '\assets\audio\You are right.mp3' }
+  { id: '', letter: 'You are right', src: 'https://raw.githubusercontent.com/btanguturu/drumkit/master/assets/audio/You%20are%20right.mp3' }
 
 ]
 
@@ -74,7 +74,7 @@ class App extends React.Component {
   constructor(props){
     super(props)
     this.state = {
-      display: 'Click or Press a Key'
+      display: ''
     }
   }
   
