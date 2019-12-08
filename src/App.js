@@ -74,7 +74,7 @@ class App extends React.Component {
   constructor(props){
     super(props)
     this.state = {
-      display: 'Click or Press a Key'
+      display: ''
     }
   }
   
